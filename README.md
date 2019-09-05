@@ -20,5 +20,9 @@
 
 #### 搜索
 
-2019-09-04：两分查找（binarysearch）
+2019-09-04：两分查找（BinarySearch.java）
+
+#### 其他
+
+2019-09-05：两数之和（TwoSum.java）
 
