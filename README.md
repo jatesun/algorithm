@@ -20,9 +20,10 @@
 
 #### 搜索
 
-2019-09-04：两分查找（BinarySearch.java）
+2019-09-04：第704题 两分查找（BinarySearch.java）
+2019-09-07：第35题 搜索插入位置（SearchTargetPosition.java）
 
 #### 其他
 
-2019-09-05：两数之和（TwoSum.java）
+2019-09-05：第1题 两数之和（TwoSum.java）
 
