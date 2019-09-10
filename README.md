@@ -21,7 +21,11 @@
 #### 搜索
 
 2019-09-04：第704题 两分查找（BinarySearch.java）
+
 2019-09-07：第35题 搜索插入位置（SearchTargetPosition.java）
+
+2019-09-10：第700题 二叉搜索树中的搜索（BinaryTreeSearch.java）
+
 
 #### 其他
 
