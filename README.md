@@ -36,6 +36,5 @@
 
 * [第538题把二叉搜索树转换为累加树](tree/src/main/java/BinaryTreePlus.java)
 
-[test]( https://www.google.com ）
 
 
