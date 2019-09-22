@@ -31,6 +31,8 @@
 
 2019-09-05：第1题 两数之和（TwoSum.java）
 
+2019-09-22：第7题 [数字翻转]（/jatesun/algorithm/blob/master/others/src/main/java/NumReverse.java）
+
 #### 树
 
 2019-09-12：第538题 把二叉搜索树转换为累加树（BinaryTreePlus.java）

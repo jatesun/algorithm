@@ -29,32 +29,7 @@
  * 反思：题干中提到注意溢出，简单try catch。
  *
  * @author sunjiantao
- * @date 2019-09-16
+ * @date 2019-09-22
  */
-public class NumReverse {
-    public static void main(String[] args) {
-        NumReverse numReverse = new NumReverse();
-        numReverse.reverse(-123);
-        numReverse.reverse(123);
-        numReverse.reverse(120);
-    }
-
-    public int reverse(int x) {
-        try {
-            String s = String.valueOf(x);
-            String results = "";
-            for (int i = s.length() - 1; i >= 0; i--) {
-                if (i == 0 && x < 0) {
-                    results = "-" + results;
-                } else {
-                    results += s.charAt(i);
-                }
-            }
-            int resulti = Integer.valueOf(results);
-            System.out.println(resulti);
-            return resulti;
-        } catch (Exception e) {
-        }
-        return 0;
-    }
+public class TwoSumPlus {
 }
