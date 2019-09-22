@@ -31,7 +31,7 @@
 
 2019-09-05：第1题 两数之和（TwoSum.java）
 
-2019-09-22：第7题 [test](/jatesun/algorithm/blob/master/others/src/main/java/NumReverse.java）
+2019-09-22：第7题 [test](/others/src/main/java/NumReverse.java）
 
 #### 树
 
