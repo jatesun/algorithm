@@ -26,6 +26,7 @@
 
 2019-09-10：第700题 二叉搜索树中的搜索（BinaryTreeSearch.java）
 
+* - [第七题数字翻转](others/src/main/java/NumReverse.java)
 
 #### 其他
 
