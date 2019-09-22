@@ -20,23 +20,21 @@
 
 #### 搜索
 
-2019-09-04：第704题 两分查找（BinarySearch.java）
+* [第704题二分查找](searh/src/main/java/BinarySearch.java)
 
-2019-09-07：第35题 搜索插入位置（SearchTargetPosition.java）
+* [第35题搜索插入位置](searh/src/main/java/SearchTargetPosition.java)
 
-2019-09-10：第700题 二叉搜索树中的搜索（BinaryTreeSearch.java）
-
-* [第七题数字翻转](others/src/main/java/NumReverse.java)
+* [第700题二叉搜索树中的搜索](searh/src/main/java/BinaryTreeSearch.java)
 
 #### 其他
 
-2019-09-05：第1题 两数之和（TwoSum.java）
+* [第1题两数之和](others/src/main/java/TwoSum.java)
 
-2019-09-22：第7题 [test](others/src/main/java/NumReverse.java）
+* [第7题数字翻转](others/src/main/java/NumReverse.java)
 
 #### 树
 
-2019-09-12：第538题 把二叉搜索树转换为累加树（BinaryTreePlus.java）
+* [第538题把二叉搜索树转换为累加树](tree/src/main/java/BinaryTreePlus.java)
 
 [test]( https://www.google.com ）
 
