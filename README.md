@@ -20,11 +20,11 @@
 
 #### 搜索
 
-* [第704题二分查找](searh/src/main/java/BinarySearch.java)
+* [第704题二分查找](search/src/main/java/BinarySearch.java)
 
-* [第35题搜索插入位置](searh/src/main/java/SearchTargetPosition.java)
+* [第35题搜索插入位置](search/src/main/java/SearchTargetPosition.java)
 
-* [第700题二叉搜索树中的搜索](searh/src/main/java/BinaryTreeSearch.java)
+* [第700题二叉搜索树中的搜索](search/src/main/java/BinaryTreeSearch.java)
 
 #### 其他
 
