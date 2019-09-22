@@ -37,6 +37,6 @@
 
 2019-09-12：第538题 把二叉搜索树转换为累加树（BinaryTreePlus.java）
 
-[test](/jatesun/algorithm/blob/master/others/src/main/java/NumReverse.java）
+[test](blob/master/others/src/main/java/NumReverse.java）
 
 
