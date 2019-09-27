@@ -32,6 +32,8 @@
 
 * [第7题数字翻转](others/src/main/java/NumReverse.java)
 
+* [第9题回文数](others/src/main/java/PalindromeNumber.java)
+
 #### 树
 
 * [第538题把二叉搜索树转换为累加树](tree/src/main/java/BinaryTreePlus.java)
